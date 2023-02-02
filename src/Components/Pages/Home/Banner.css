@@ -1,0 +1,6 @@
+.banner-image {
+  background-image: linear-gradient(to right,
+      #010c0f9f,
+      #0002039c), url(../../../Assets//banner2.jpg);
+  background-size: cover;
+}

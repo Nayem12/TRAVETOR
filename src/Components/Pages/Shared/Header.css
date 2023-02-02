@@ -1,0 +1,25 @@
+.header-bg {
+  background: linear-gradient(to right, #033085fd, #360033);
+}
+
+.newnavbar {
+  background: #44455336;
+  backdrop-filter: blur(19.5px);
+  -webkit-backdrop-filter: blur(19.5px);
+  height: 0px;
+  font-size: 1.1rem;
+  transition: 1s all;
+  position: fixed;
+  top: 8px;
+  z-index: 999;
+}
+
+
+
+.login-bg {
+  background-image: url('../../../Assets/loginBg.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 105vh;
+  margin-top: -100px;
+}
